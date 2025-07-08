@@ -22,8 +22,8 @@
         "any": false,
         "minSendItems": 3,
         "maxSendItems": 4,
-        "minReceiveItems": 2,
-        "maxReceiveItems": 4,
+        "minReceiveItems": 1,
+        "maxReceiveItems": 3,
         "blacklisted": [
             "BLACKLISTED_ITEM_ID_1",
             "BLACKLISTED_ITEM_ID_2"
