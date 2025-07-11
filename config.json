@@ -20,7 +20,7 @@
         "upgrade": true,
         "downgrade": false,
         "any": false,
-        "minSendItems": 3,
+        "minSendItems": 2,
         "maxSendItems": 4,
         "minReceiveItems": 1,
         "maxReceiveItems": 3,
@@ -36,7 +36,7 @@
         "maxUpgPercent": 12,
         "minDgPercent": 0,
         "maxDgPercent": 4,
-        "minDemand": 2,
+        "minDemand": 1,
         "minItemValueSend": 5000,
         "minItemValueRequest": 5000,
         "tags": [
