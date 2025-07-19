@@ -17,13 +17,13 @@
     },
     "smartAlgo": {
         "enabled": true,
-        "upgrade": true,
+        "upgrade": false,
         "downgrade": false,
-        "any": false,
-        "minSendItems": 2,
+        "any": true,
+        "minSendItems": 1,
         "maxSendItems": 4,
         "minReceiveItems": 1,
-        "maxReceiveItems": 3,
+        "maxReceiveItems": 4,
         "blacklisted": [
             "BLACKLISTED_ITEM_ID_1",
             "BLACKLISTED_ITEM_ID_2"
