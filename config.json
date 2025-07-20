@@ -28,7 +28,7 @@
             "BLACKLISTED_ITEM_ID_1",
             "BLACKLISTED_ITEM_ID_2"
         ],
-        "minTotalSend": 30000,
+        "minTotalSend": 3000,
         "maxTotalSend": 1000000,
         "minTotalRequestValue": 30000,
         "maxTotalRequestValue": 1000000000,
@@ -37,8 +37,8 @@
         "minDgPercent": 0,
         "maxDgPercent": 4,
         "minDemand": 1,
-        "minItemValueSend": 5000,
-        "minItemValueRequest": 5000,
+        "minItemValueSend": 2000,
+        "minItemValueRequest": 2000,
         "tags": [
             "adds"
         ],
